@@ -1,0 +1,26 @@
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\bin\Debug\netcoreapp3.1\Projeto em C#.exe
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\bin\Debug\netcoreapp3.1\Projeto em C#.deps.json
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\bin\Debug\netcoreapp3.1\Projeto em C#.runtimeconfig.json
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\bin\Debug\netcoreapp3.1\Projeto em C#.runtimeconfig.dev.json
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\bin\Debug\netcoreapp3.1\Projeto em C#.dll
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\bin\Debug\netcoreapp3.1\Projeto em C#.pdb
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\obj\Debug\netcoreapp3.1\Projeto em C#.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\obj\Debug\netcoreapp3.1\Projeto em C#.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\obj\Debug\netcoreapp3.1\Projeto em C#.AssemblyInfo.cs
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\obj\Debug\netcoreapp3.1\Projeto em C#.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\obj\Debug\netcoreapp3.1\Projeto em C#.dll
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\obj\Debug\netcoreapp3.1\Projeto em C#.pdb
+C:\Users\Marcos\Documents\estudo\dio\Projeto em C#\obj\Debug\netcoreapp3.1\Projeto em C#.genruntimeconfig.cache
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\bin\Debug\netcoreapp3.1\Projeto em C#.exe
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\bin\Debug\netcoreapp3.1\Projeto em C#.deps.json
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\bin\Debug\netcoreapp3.1\Projeto em C#.runtimeconfig.json
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\bin\Debug\netcoreapp3.1\Projeto em C#.runtimeconfig.dev.json
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\bin\Debug\netcoreapp3.1\Projeto em C#.dll
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\bin\Debug\netcoreapp3.1\Projeto em C#.pdb
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\obj\Debug\netcoreapp3.1\Projeto em C#.csprojAssemblyReference.cache
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\obj\Debug\netcoreapp3.1\Projeto em C#.AssemblyInfoInputs.cache
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\obj\Debug\netcoreapp3.1\Projeto em C#.AssemblyInfo.cs
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\obj\Debug\netcoreapp3.1\Projeto em C#.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\obj\Debug\netcoreapp3.1\Projeto em C#.dll
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\obj\Debug\netcoreapp3.1\Projeto em C#.pdb
+C:\Users\Marcos\Documents\estudo\dio\dotnet__poo\obj\Debug\netcoreapp3.1\Projeto em C#.genruntimeconfig.cache
